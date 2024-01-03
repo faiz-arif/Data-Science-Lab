@@ -60,9 +60,25 @@ This is an introductory practical course on Data Science and student will learn 
 17.	Normal Distribution Plot using Numpy and Matplotlib
 
 ### CO2
-
+01. Program to implement k-NN classification using any standard dataset available in the public domain and find the accuracy of the algorithm.
+02. Program to implement Naïve Bayes Algorithm using any standard dataset available in the public domain and find the accuracy of the algorithm.
+03. Program to implement linear and multiple regression techniques using any standard dataset available in the public domain and evaluate its performance.
 
 ### CO3
-
+01. Program to implement text classification using Support vector machine.
+02. Program to implement decision trees using any standard dataset available in the public domain and find the accuracy of the algorithm.
+03. Program to implement k-means clustering technique using any standard dataset available in the public domain.
 
 ### CO4
+01. Programs on feedforward network to classify any standard dataset available in the public domain.
+02. Programs on convolutional neural network to classify images from any standard dataset in the public domain.
+
+### CO5
+#### Web Data Mining
+- Implement a simple web crawler (ensure ethical conduct).
+- Implement a program to scrap the web page of any popular website – suggested python package is scrappy (ensure ethical conduct).
+#### Natural Language Processing
+Problems may be designed for the following topics so that students can get hands on experience in using python for natural language processing:
+- Part of Speech tagging
+- N-gram and smoothening
+- Chunking
